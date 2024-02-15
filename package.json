@@ -1,0 +1,15 @@
+{
+  "name": "cmc-api-proxy",
+  "version": "1.0.0",
+  "description": "A proxy for cmc api",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "hide001",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.4",
+    "express": "^4.18.2"
+  }
+}
